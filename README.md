@@ -20,7 +20,7 @@
 </div>
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=FADD92&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Eldor+Kenjebayev;Full+Stack+Developer;Building+Amazing+Apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=FADD92&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Shakhzod+Ilgeldiyev;Full+Stack+Developer!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -35,8 +35,8 @@
 
 I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- 🔭 I have completed the Wepro IT school in Full Stack development specialization
-- 🌱 Mastering React, Node.js, Express.js, and modern web technologies
+- 🔭 I have completed the Empire IT Academy in Full Stack development specialization
+- 🌱 Mastering React, Node.js, Express.js, Nest.js and modern web technologies
 - ⚡ In my free time I solve problems on Leetcode and read novels
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eldor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eldor-kenjebayev-140808275/)
 
@@ -48,11 +48,9 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-  <img src="https://storage.googleapis.com/moravio-web/media/react_native_e0c7e12161/react_native_e0c7e12161.png" title="React Native" alt="React Native" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="MUI" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vitejs" width="50" height="50"/>&nbsp;
 </div>
@@ -61,11 +59,11 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest.js" alt="Nest" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" title="AJAX" alt="AJAX" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
 </div>
 
 #### 🛠️ Tools & DevOps
@@ -82,8 +80,6 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-
   
 </div>
 
