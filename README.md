@@ -7,7 +7,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/%D1%88%D0%B0%D1%85%D0%B7%D0%BE%D0%B4-%D0%B8%D0%BB%D1%8C%D1%8F%D0%B5%D0%B2-5944b9279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/@toapex">
+  <a target="_blank" href="https://www.youtube.com/@nurli_algoritm">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a target="_blank" href="https://t.me/shakhzodCodeJurnal">
