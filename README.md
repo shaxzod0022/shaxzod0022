@@ -38,7 +38,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 - 🔭 I have completed the Empire IT Academy in Full Stack development specialization
 - 🌱 Mastering React, Node.js, Express.js, Nest.js and modern web technologies
 - ⚡ In my free time I solve problems on Leetcode and read novels
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eldor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eldor-kenjebayev-140808275/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shakhzod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%88%D0%B0%D1%85%D0%B7%D0%BE%D0%B4-%D0%B8%D0%BB%D1%8C%D1%8F%D0%B5%D0%B2-5944b9279)
 
 ---
 
@@ -113,12 +113,12 @@ const softSkills = {
 ### 📈 My GitHub Stats
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=EldorKenjabayev&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="EldorKenjabayev github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldorKenjabayev&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Shakhzod&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="Shakhzod github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhzod&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
 </div>
 
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=EldorKenjabayev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Eldor Kenjabayev" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakhzod&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Shakhzod" />
 </div>
 
 ---
@@ -126,7 +126,7 @@ const softSkills = {
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EldorKenjabayev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakhzod&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
