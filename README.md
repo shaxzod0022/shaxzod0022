@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/%D1%88%D0%B0%D1%85%D0%B7%D0%BE%D0%B4-%D0%B8%D0%BB%D1%8C%D1%8F%D0%B5%D0%B2-5944b9279/">
+  <a target="_blank" href="https://www.linkedin.com/in/shahzod-ilgeldiyev-5944b9279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a target="_blank" href="https://www.youtube.com/@nurli_algoritm">
@@ -38,7 +38,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 - 🔭 I have completed the Empire IT Academy in Full Stack development specialization
 - 🌱 Mastering React, Node.js, Express.js, Nest.js and modern web technologies
 - ⚡ In my free time I solve problems on Leetcode and read novels
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shakhzod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%88%D0%B0%D1%85%D0%B7%D0%BE%D0%B4-%D0%B8%D0%BB%D1%8C%D1%8F%D0%B5%D0%B2-5944b9279)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shakhzod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahzod-ilgeldiyev-5944b9279/)
 
 ---
 
