@@ -10,7 +10,7 @@
   <a target="_blank" href="https://www.youtube.com/@nurli_algoritm">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a target="_blank" href="https://t.me/shakhzodCodeJurnal">
+  <a target="_blank" href="https://t.me/toapex">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
